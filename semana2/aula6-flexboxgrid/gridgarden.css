@@ -23,7 +23,7 @@ grid-column: 2 / 5;
 /*Questão 12*/
 grid-row-start: 3;
 /*Questão 13*/
-grid-row: 3 / 6
+grid-row: 3 / 6;
 /*Questão 14*/
 grid-column: 2;
 grid-row: 5;
@@ -37,26 +37,26 @@ grid-area: 1 / 2 / 4 / 6;
 /*Questão 17*/
 grid-area: 2 / 3 / 5 / 6;
 /*Questão 18*/
-order: 5
+order: 5;
 /*Questão 19*/
 order: -1
 /*Questão 20*/
-grid-template-columns: 50%
+grid-template-columns: 50%;
 /*Questão 21*/
 grid-template-columns: repeat(8, 12.5%);
 /*Questão 22*/
 grid-template-columns: 100px 3em 40%;
 /*Questão 23*/
-grid-template-columns: 1fr 5fr   
+grid-template-columns: 1fr 5fr; 
 /*Questão 24*/
-grid-template-columns: 50px 1fr 1fr 1fr 50px
+grid-template-columns: 50px 1fr 1fr 1fr 50px;
 /*Questão 25*/
 grid-template-columns: 75px 3fr 2fr;
 /*Questão 26 - Não entendi o zero(0)fr*/
-grid-template-rows: 50px 0fr 0fr 0fr
+grid-template-rows: 50px 0fr 0fr 0fr;
 /*Questão 27*/
-grid-template: 60% /200px
+grid-template: 60% /200px;
 /*Questão 28*/
 align-self: 
 grid-template-rows: 1fr 50px;
-Não consegui resolver cheguei até aqui.
+Não consegui resolver cheguei até aqui;
