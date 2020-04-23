@@ -1,0 +1,62 @@
+/*Questão 1*/
+grid-column-start: 3;
+/*Questão 2*/
+grid-column-start:5;
+/*Questão 3*/
+grid-column-end: 4;
+/*Questão 4*/
+grid-column-end: 2;
+/*Questão 5*/
+grid-column-end: 5;
+/*Questão 6*/
+grid-column-start: 4;
+/*Questão 7*/
+grid-column-end: span 2;
+/*Questão 8*/
+grid-column-end: span 5;
+/*Questão 9*/
+grid-column-start: 3;
+/*Questão 10*/
+grid-column: 4 / 6;
+/*Questão 11*/
+grid-column: 2 / 5;
+/*Questão 12*/
+grid-row-start: 3;
+/*Questão 13*/
+grid-row: 3 / 6
+/*Questão 14*/
+grid-column: 2;
+grid-row: 5;
+/*Questão 15*/
+grid-column: 2/6;
+grid-row: 1/6;
+/*ou*/
+grid-area: 1 / 2 / 6 / 6;
+/*Questão 16*/
+grid-area: 1 / 2 / 4 / 6;
+/*Questão 17*/
+grid-area: 2 / 3 / 5 / 6;
+/*Questão 18*/
+order: 5
+/*Questão 19*/
+order: -1
+/*Questão 20*/
+grid-template-columns: 50%
+/*Questão 21*/
+grid-template-columns: repeat(8, 12.5%);
+/*Questão 22*/
+grid-template-columns: 100px 3em 40%;
+/*Questão 23*/
+grid-template-columns: 1fr 5fr   
+/*Questão 24*/
+grid-template-columns: 50px 1fr 1fr 1fr 50px
+/*Questão 25*/
+grid-template-columns: 75px 3fr 2fr;
+/*Questão 26 - Não entendi o zero(0)fr*/
+grid-template-rows: 50px 0fr 0fr 0fr
+/*Questão 27*/
+grid-template: 60% /200px
+/*Questão 28*/
+align-self: 
+grid-template-rows: 1fr 50px;
+Não consegui resolver cheguei até aqui.
