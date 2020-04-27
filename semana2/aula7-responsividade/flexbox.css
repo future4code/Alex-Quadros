@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw; 
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color: darkslategrey;
+    border: 2px solid black;    
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+    background-color: gray;    
+    position: absolute;             
+    align-items: baseline;
+    padding-left: 40px;
+    font-size: 25px; 
+    top: 6vh;
+    left: 7vw;
+    width: 30vh;
+    height: 90vh;
+}
+
+.vermelho {
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 6vh;
+    left: 23vw; 
+    font-size: 25px;
+    background-color: red;   
+    width: 69vw;
+    height: 10vh;  
+       
+}
+
+.fundo-branco {
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: white;
+    top: 16vh;
+    left: 23vw;
+    background-color: white ;
+    font-size: 25px;
+    height: 80vh;
+    width: 69vw;   
+}
+
+.azul1 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 18vh;
+    left: 24vw; 
+    background-color: blue;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;   
+}
+
+.amarelo2 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 18vh;
+    left: 47vw; 
+    background-color: yellow;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.verde3 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 18vh;
+    left: 70vw;  
+    background-color: green;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.azul4 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30vh;
+    left: 24vw; 
+    background-color: blue;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.amarelo5 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30vh;
+    left: 47vw; 
+    background-color: yellow;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.verde6 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 30vh;
+    left: 70vw;  
+    background-color: green;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.preto7 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: white;
+    top: 42vh;
+    left: 58vw;  
+    background-color: black;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 33vw;
+    height: 31vh;   
+}
+
+.preto8 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    color: white;
+    top: 42vh;
+    left: 24vw; 
+    background-color: black;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 33vw;
+    height: 31vh;    
+}
+
+.branco9 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 15vh;
+    left: 24vw; 
+    background-color: white;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;   
+}
+
+.branco10 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 15vh;
+    left: 47vw; 
+    background-color: white;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;    
+}
+
+.branco11 {
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 15vh;
+    left: 70vw; 
+    background-color: white;
+    border: 1px solid black;  
+    font-size: 25px;       
+    width: 21vw;
+    height: 10vh;   
+}
+
